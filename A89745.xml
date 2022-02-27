@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Norwich, Lord Capel, &amp; Sir Charls Lucas, their peremptory answer, in refusing to surrender Colchester, upon the Lord Generalls conditions. With his Excellencies summons, and articles offered them. Also his repyl to the enemies last answer. And all the summons, articles, letters, and answers between his excellencie, and the enemie, in Kent and Essex. Published by speciall command, and for generall satisfaction to the kingdome.</title>
+            <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89745</idno>
+            <idno type="STC">Wing N1337</idno>
+            <idno type="STC">Thomason E449_30</idno>
+            <idno type="EEBO-CITATION">99864483</idno>
+            <idno type="PROQUEST">99864483</idno>
+            <idno type="VID">161873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161873)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Norwich, Lord Capel, &amp; Sir Charls Lucas, their peremptory answer, in refusing to surrender Colchester, upon the Lord Generalls conditions. With his Excellencies summons, and articles offered them. Also his repyl to the enemies last answer. And all the summons, articles, letters, and answers between his excellencie, and the enemie, in Kent and Essex. Published by speciall command, and for generall satisfaction to the kingdome.</title>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+                  <author>Capel of Hadham, Arthur Capel, Baron, 1610?-1649.</author>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161873:1" rendition="simple:additions"/>
+            <p>THE EARL OF NORWICH, Lord CAPEL, &amp; Sir CHARLS LUCAS, their Peremptory Anſwer, In refuſing to Surrender <hi>Colcheſter,</hi> up<g ref="char:EOLhyphen"/>on the Lord Generalls Conditions.</p>
+            <p>WITH His EXCELLENCIES <hi>Summons,</hi> and <hi>Articles</hi> offered them.</p>
+            <p>ALSO His <hi>Reply</hi> to the <hi>Enemies</hi> laſt ANSWER.</p>
+            <p>AND All the <hi>Summons, Articles, Letters,</hi> and <hi>Anſwers</hi> Between his Excellencie, and the Enemie, in KENT and ESSEX.</p>
+            <p>Publiſhed by ſpeciall Command, and for generall ſatisfaction to the Kingdome.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert White,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161873:2"/>
+            <pb n="1" facs="tcp:161873:2"/>
+            <div type="letter">
+               <head>A Letter to the Gentlemen of KENT, and others aboard the Ships in the DOWNS.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving by my Letter of the 7<hi rend="sup">th.</hi> of <hi>June</hi> 1648. de<g ref="char:EOLhyphen"/>clared to all Seamen and others, who have been inſtruments in the ſeizing and carrying away of divers ſhips, ſet forth by the Parliament, for the ſecuritie of the Kingdom, that if for the future, they do ſo improve their indeavours, as to regain the ſaid ſhips, and bring them in to the obedience of the Parliament, that then they ſhall receive, not only pardon for what they have done, but likewiſe what pay ſhall be due unto them; All which I am ſtill ready to make good unto them, if forthwith they ſhall comply; and in perſuance thereof, bring their reſpective ſhips into <hi>Chattham,</hi> there to receive their pay, and being informed that your ſelves being on board the ſhips, (whereof at writing of my former Letters I had no notice) are ſencible of your own dan<g ref="char:EOLhyphen"/>ger, which you have the more reaſon to be, conſidering the conti<g ref="char:EOLhyphen"/>nued ſucceſſe which it hath pleaſed God to give the forces of the Parliament, under my Command in this Countie, my Self being here at <hi>Canterburie,</hi> as by the incloſed Articles delivered, <hi>Dover</hi> Caſtle relieved, the two Forts of <hi>Dover</hi> taken, <hi>Sandwich</hi> poſſeſt by ſome of my Forces, and the reſt of my Forces now marching to reduce <hi>Deale</hi> Caſtle, and the other two Caſtles, of which by Gods bleſſing, I doubt not but to have a ſpeedie and good account.</p>
+               <p>To teſtifie the deſires I have of your preſervation, ſo far as you
+<pb n="2" facs="tcp:161873:3"/>will make your ſelves capable thereof, by your being inſtrumentall to bring the ſaid ſhips under obedience of the Parliament, and for that purpoſe to deliver them up to the charge of theſe Gentlemen hereafter named, intruſted for that purpoſe, to be by them imme<g ref="char:EOLhyphen"/>diatly brought into <hi>Chattham:</hi> which done by you, do declare, and hereby tender unto you <hi>Indempnitie</hi> for your by-paſt errors, in relation to the revolting of the ſhips, and <hi>Kentiſh</hi> commotions, for which I have warrant from the Parliament, as by the incloſed Papers will appear. The Gentlemen I have intruſted to come unto you about this buſineſſe, are, Col. <hi>Rich,</hi> and another Officer of the Army, Capt. <hi>Benjamin Craulie.</hi> Capt. <hi>Phineas Pett. Thomas Arkinſtall,</hi> and <hi>Henrie Coodall.</hi> If you do readily comply herein, I ſhall not only be carefull to obſerve what is promiſed, but be ready on any occaſion,</p>
+               <closer>
+                  <signed>To be <hi>Yours.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Rocheſter,</hi> 
+                     <date>June the 10<hi rend="sup">th</hi>. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Gentlemen of the Countie of <hi>Kent,</hi> and Seamen aboard the Ships in the <hi>Downes.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Thought fit to let you know I am here by the Command of the Generall, for the preſervation of the peace of this County, and that by the bleſſing of God, according to his Excellencies Letter to you on that behalf, the late troubles of theſe parts are very well a<g ref="char:EOLhyphen"/>layed; that according to the Generals directions, I have ſent you his Excellencies Declaration, to whom the Parliament hath refer<g ref="char:EOLhyphen"/>red the Compoſure of theſe diſtractions. I hope you will deeme your ſelves ſo far concerned in the peace of this County and King<g ref="char:EOLhyphen"/>dom, as that nothing being wanting in what is tendred to render you capable of injoying all that is deſirable, notwithſtanding the late clouds you have been under, you will not now be enemies to your own peace and happineſſe, but imbrace, and not reject what
+<pb n="3" facs="tcp:161873:3"/>is offered, leſt the Parliament by this large tender, having ſo clearly waſhed their hands of that blood and miſery which may enſue by your refuſall: It lies now at your doore, if you ac<g ref="char:EOLhyphen"/>cept of what is here ſent. I deſire a ſpeedy returne, that you may have a ſafe conduct from me, for ſuch as you ſhall think fit to come on ſhore to treat the purport of what you have incloſed, with the Gentlemen here,</p>
+               <closer>
+                  <signed>Your humble Servant, <hi>Nath. Rich.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>To this no other Anſwer was returned, then that they owed not him, the Parliament, or Generall, ſo much ſervice, as to return him a word in writing, but if he would produce a Commiſſi<g ref="char:EOLhyphen"/>on from His Majeſty, they were his ſervants.</p>
+                  <p>
+                     <hi>Deale</hi> the 11<hi rend="sup">th</hi> of <hi>June.</hi> 1648.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>M<hi rend="sup">r</hi>. SPEAKER,</salute>
+               </opener>
+               <p>I Had not been thus long out of <hi>Eſſex,</hi> had there not been a neceſſity for my ſtay in theſe parts, till this County be totally reduced: which now by Gods bleſſing it is; except <hi>Deale</hi>-Caſtle, and the other two Caſtles upon that Coaſt, before which there are now forces lying, and doubt not but very ſhortly to give a good account of them: Thoſe for<g ref="char:EOLhyphen"/>ces that beſieged <hi>Dover</hi>-Caſtle, upon the approach of Colonell <hi>Rich,</hi> and Colonell <hi>Hewſon,</hi> retreated to <hi>Canterbury,</hi> where they made a conſiderable ſtrength, with other forces of the County that had ſled thither, together with the Townſ-men, being above two thouſand Horſe and Foot, whereupon I ſent a good Party of Horſe, Foot, and Artillery from <hi>Rocheſter,</hi> to come on this ſide the Towne, whileſt Colonell <hi>Rich</hi> and thoſe with him came on the other ſide. The Gentry in the Towne ſent forth for a Parley, whereupon theſe incloſed Articles (being the Copie of the Originall) were agreed upon; which I humbly offer to the conſideration of the Houſe. <g ref="char:V">Ʋ</g>pon which the Towne was yeſterday delivered, and neare three thouſand Armes brought in to the Cathedrall: Commiſſary Generall <hi>Ireton</hi> ſtaies there a while to diſ<g ref="char:EOLhyphen"/>mantle
+<pb n="4" facs="tcp:161873:4"/>ſome part of the wall, by the ſtrength whereof they have been ſo incouraged to hold out. I likewiſe ſend you incloſed the Demands of the Towne of <hi>Dover,</hi> and Colonell <hi>Rich</hi> his anſwer thereunto; the Fort there yeelded preſently after the Towne was poſſeſt, wherein there were ſeventy barrels of powder, which they had gotten in thither for the better ſupply of their Army in <hi>Kent:</hi> I have ſent two Companies to quarter at <hi>Sandwich,</hi> and intend this night (God willing) to quarter at <hi>Graveſ-end,</hi> and to loſe no time in proſecuting the buſineſſe in <hi>Eſ<g ref="char:EOLhyphen"/>ſex:</hi> I have writ to the Committee of the Army, to ſend a Morter-Peece downe by water to <hi>Sandwich;</hi> which I deſire may be baſtened, in caſe the Caſtles hold out,</p>
+               <closer>
+                  <signed>I remaine, <hi>Your faithfull and Humble Servant,</hi> THOMAS FAIRFAX.</signed>
+                  <dateline>Rocheſter, <date>
+                        <hi>June 11<hi rend="sup">th</hi>. 1648.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Gentlemen, and others of the Town of <hi>Harwich.</hi>
+               </head>
+               <p>WE whoſe names are hereunto ſubſcribed, ſend greeting, and ſhew unto you, that whereas the Forces of the Lord <hi>Goring</hi> are in <hi>Colcheſter,</hi> and probably may attempt the Towne of <hi>Harwich;</hi> we therefore declare, and reſolve, that if you will ſtand joyntly together, and keep out the enemy aforeſaid, and preſerve the Towne for King and Parliament, we will ſtand firme with you, uſing our utmoſt diligence to aſſiſt: but if you ſhall through trea<g ref="char:EOLhyphen"/>chery, or cowardiſe admit, or ſuffer the enemy to enter in, or poſ<g ref="char:EOLhyphen"/>ſeſſe themſelves of the Towne; know you, that we are reſolved to force the enemy forth againe, and in ſo doing ſhall beat downe, or fire your Town eaven with the ground; we deſire to act rather as friends then enemies, and doe ſubſcribe according to your behavi<g ref="char:EOLhyphen"/>ours, to be your</p>
+               <closer>
+                  <signed>Friends and Servants.</signed>
+               </closer>
+            </div>
+            <div type="resolutions">
+               <pb n="5" facs="tcp:161873:4"/>
+               <head>The Reſult of a Conſultation held on Board the <hi>Providence,</hi> by us whoſe names are hereunto ſubſcribed, for the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment, occaſioned by the enemies beeing in poſſeſſion of <hi>Colcheſter,</hi> with <hi>Gorings</hi> whole Army.</head>
+               <opener>
+                  <salute>RESOLVED UPON,</salute>
+               </opener>
+               <p>FIrſt, That forthwith we write to the Mayor, and the reſt of the Town of <hi>Harwich,</hi> that if they will ſtand firme to preſerve and defend againſt the common enemy, <hi>viz.</hi> the Kings Party, that then we will ſtand and act with them with all diligence, but if they comply, or give way to the enemy to enter and poſſeſſe the Town, we will uſe our <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>termoſt endeavours to beat the enemies forth of the Towne againe, though in ſo doing we beat down, or fire the Towne.</p>
+               <p>Secondly, In order to the ſervice, it is agreed, that if the Fort ſhall ſtand in need of Ammunition, or otherwiſe, we will ſupply them.</p>
+               <p>Thirdly, For the beſt advantage of ſervice, it is thought fit that the ſhips ſhall be thus diſpoſed of, <hi>viz.</hi> the Adventure, and Tyger ſhall birth upon the South-weſt of the Town, as neare as with ſafe<g ref="char:EOLhyphen"/>ty, to flank the paſſage to the Town upon that ſide: the Providence lie neare, within Piſtoll ſhot of the Rode of the Town, upon the North-ſide, to ſway that part; the Recovery to birth as near to <hi>Lan<g ref="char:EOLhyphen"/>ger</hi> Fort as with convenience, that the Dolphin ride upon the Weſt ſide, Musket ſhot off the Fort of <hi>Harwich;</hi> the Grey-hound to be upon the North-eaſt ſide of the Town, to flank that ſide.</p>
+               <p>Fourthly, That care be taken to draw off all the boats from the ſhore upon <hi>Harwich</hi> ſide, ſave only ſuch neceſſary boats as may be eſpecially uſefull. To the premiſes aforeſaid we joyntly conſent and ſubſcribe.</p>
+            </div>
+            <div type="letter">
+               <head>Gentlemen, and our worthy good Friends.</head>
+               <p>WE have received by Captain <hi>Mildmay</hi> the reſult of your conſultation, for the good and defence of this Town, in anſwer whereunto we thought good to ſend theſe few lines, to in<g ref="char:EOLhyphen"/>timate our thankfulneſſe, and withall, our reſolutions faithfully to adhere and joyne with you, for the preſervation of this Town for
+<pb n="6" facs="tcp:161873:5"/>King and Parliament: and in purſuance of intereſt of the Parlia<g ref="char:EOLhyphen"/>ment for the proſperity of this Kingdome againſt the Forces now under the Command of the Lord <hi>Goring,</hi> or Sir <hi>Charles Lucas,</hi> now in, or about <hi>Colcheſter;</hi> and upon this reſolution we are ready to adventure both our lives and Eſtates, deſiring that upon any emer<g ref="char:EOLhyphen"/>gent occaſion you will be pleaſed to furniſh us with ſuch men and ammunition as may with convenience be ſpared by you, and ſo we reſt,</p>
+               <closer>
+                  <signed>Your very loving Friends, Robert Paſcall. Jo. Hunter. Roger Coleman. Richard Hankin.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>May it pleaſe your Excellencie.</head>
+               <p>VVE whoſe names are ſubſcribed, being Inhabitants in the Towne of <hi>Manningtree,</hi> have intercepted a letter which was ſent from Maſter <hi>Robert Veyſey</hi> to his wife, and a Warrant to the high Conſtable; we keep the Originals, and have ſent you a true Copy of them, as is our duty, that your Excellency may deale and proceed therein, as in your wiſdome you ſhall think fit, and remaine in all humbleneſſe, praying for your health and ſafety, with good and proſperous ſucceſſe in Gods cauſe.</p>
+               <closer>
+                  <signed>Your humble Servants To command, Joſeph Burniſh. Henry Hayes. John Micklefield. Nicholas Wollvet. Edward Chauntrellers.</signed>
+                  <dateline>Manningtree, <date>the 15<hi rend="sup">th</hi>. of June 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="7" facs="tcp:161873:5"/>
+               <opener>
+                  <salute>Deare Heart.</salute>
+               </opener>
+               <p>MY Love prefixt, My Suite to thee is, to further my ingage<g ref="char:EOLhyphen"/>ment under Sir <hi>Charles Lucas,</hi> Generall of His Majeſties For<g ref="char:EOLhyphen"/>ces, now at <hi>Colcheſter,</hi> with ſuch money and linnen, as upon the ſuddaine may be provided for me: and to ſend the ſame to me to my Coſen <hi>Buxſtoves,</hi> where I have quartered this two nights; I earneſtly deſire thee not to be diſmayed, for we truſt in God we ſhall be able to make good our cauſe againſt the fury of the enemy. I cannot ſend thee the particulars of what hath happened ſince my coming forth, I being now in haſte to ſend for my ſouldiers that are gone home, the next I hope ſhall give thee a full relation: in the meant time, committing thee and thine to the protection of the Almighty, I remaine</p>
+               <closer>
+                  <signed>Thy loving Husband <hi>Robert Veſey.</hi>
+                  </signed>
+                  <dateline>Colcheſter, <date>14<hi rend="sup">th</hi>. 1648.</date>
+                  </dateline>
+               </closer>
+               <trailer>To my very loving Wife M<hi rend="sup">rs</hi>. Anne Veſey, Thoſe preſent.</trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Mr. <hi>Taylor,</hi>
+                  </salute>
+               </opener>
+               <p>I Have received Order from the Right Honourable the Lord <hi>Norwich,</hi> and Sir <hi>Charles Lueas,</hi> Generall of His Majeſties For<g ref="char:EOLhyphen"/>ces now at <hi>Colcheſter,</hi> &amp; do hereby ſtraightly charge and command you forthwith, upon ſight hereof to iſſue out your Warrants to the Conſtables of every ſeverall Pariſh within my diviſion, ſtraightly charging them to warne all my trained ſouldiers to repaire with all ſpeed, to ingage in the Service againſt the Parliaments Forces, and to let every ſouldier have foure dayes pay, hereof faile not.</p>
+               <closer>
+                  <dateline>Colcheſter <date>14<hi rend="sup">th</hi>. 1648.</date>
+                  </dateline>
+                  <signed>Your loving Friend, <hi>Robert Veſey.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>I Am come hither with the Parliamenss forces to reduce thoſe un<g ref="char:EOLhyphen"/>der your command to the obedience of the Parliament, if your Lordſhip, and thoſe under you will inſtantly lay down your Armes, there may be a prevention of much blood that is like to be ſpilt, and the Town preſerved from plunder and ruine, the evill muſt lie upon you, if you refuſe: I expect your preſent Anſwer, and remaine,</p>
+               <closer>
+                  <signed>Your Servant, <hi>Tho. Fairfax.</hi>
+                  </signed>
+                  <dateline>Lexton Heath, <date>June 13<hi rend="sup">th</hi>. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="group_of_letters">
+               <pb n="8" facs="tcp:161873:6"/>
+               <p>They ſleighted this ſummons, and the Earl of <hi>Norwich</hi> askt the Trumpeter how the Generall did, telling him, That he heard he was ill of the Gout, but he would cure him of all diſeaſes: This ſcornefull Anſwer hath much enraged the Souldiers. Afterwards upon a Letter from the Committee at <hi>Darby Houſe,</hi> concerning their ill uſage of Sir <hi>William Maſſam,</hi> &amp;c. His Excellencie wrote as followeth:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I <g ref="char:V">Ʋ</g>nderſtand you have in cuſtody Sir <hi>William Maſſam,</hi> a Parliament man, and ſome other Gentlemen priſoners, I deſire you to permit this Bearer to go and ſee in what condition they are, and what neceſſaries they want, that care may be taken for the ſupplying of them; I have a<g ref="char:EOLhyphen"/>bout five hundred priſoners of yours, if you have any <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> my Souldiers priſoners, I deſire to know the number and qualitie of them, and ſhall ſend you as many in exchange, which ſhall be performed by me.</p>
+                     <closer>
+                        <signed>Thomas Fairfax.</signed>
+                     </closer>
+                     <trailer>For the Commander in chief of the forces in <hi>Colcheſter</hi> theſe.</trailer>
+                  </body>
+               </floatingText>
+               <p>Yeſterday there came this enſuing letter to his Excellencie, <hi>viz.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Lord,</salute>
+                     </opener>
+                     <p>WE deſire you will by this Trumpeter ſend us a Liſt of all thoſe Gentlemen, Officers, and Souldiers of our partie, and under our Command, that are now Priſoners in your Army, we ſhall upon the like occaſion ſhew the ſame reſpect to you, and we deſire this Trumpeter may ſpeak with the beſt of qualitie of our Priſoners, to let them know our endeavours for their inlargement; we have detained your Trumpeter longer, by reaſon our hourly mo<g ref="char:EOLhyphen"/>tion and action:</p>
+                     <closer>
+                        <salute>My Lord</salute>
+we reſt 
+<signed>
+                           <hi>Your Servants,</hi> Norwich, Arthur Capell, Charles Lucas. For the Lord <hi>Fairfax.</hi>
+                        </signed>
+                        <dateline>Colcheſter <date>
+                              <hi>June</hi> 15<hi rend="sup">th</hi>. 1648.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>In Anſwer to this, the enſuing Liſt was ſent back this day.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A Liſt of the Priſoners remaining in cuſtody with the Marſhall Generall, <hi>Lexton, June</hi> 15<hi rend="sup">th</hi>. 1648.</head>
+                     <p>Sir <hi>William Leiton</hi> Collonell, Lieut Col. <hi>Roberts,</hi> Capt. <hi>Gregorie Baker,</hi> Capt. <hi>Chriſtmas, George Rawlins</hi> Eſquire, Lieut. <hi>Thomas Outing,</hi> Lieut. <hi>Francis Bland,</hi> and ſixteen Gentlemen more. Sir <hi>John Dorrell,</hi> Col. <hi>Francis Clark, George May</hi> Gent. theſe three taken before the fight, with three hundred and twentie private Souldiers.</p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="articles">
+               <pb n="9" facs="tcp:161873:6"/>
+               <head>Articles agreed upon, by and betwixt the Commiſſioners, whoſe Names are hereunder written, intruſted by Commiſſarie Generall <hi>Ireton,</hi> in the behalf of his Excellencie, the Lord Gen. <hi>Fairfax,</hi> on the one part, and the Commiſſioners, whoſe names are here un<g ref="char:EOLhyphen"/>der written, in the behalf of the Gentlemen and others, now in Arms in the Citie and Suburbs of <hi>Canterburie.</hi>
+               </head>
+               <p n="1">1. THat the Forces now under the Command of Commiſſarie Gen. <hi>Ireton,</hi> or ſuch of them as he ſhall appoint, ſhall have peacea<g ref="char:EOLhyphen"/>ble entrance into the City and Countie of <hi>Canterburie,</hi> by <hi>11<hi rend="sup">th</hi>.</hi> of the clock to morrow morning.</p>
+               <p n="2">2. That all Armes, Ammunition, and Ordnance, within the ſaid City, Countie, and Suburbs, ſhall be without imbezlement, brought in by the ſaid <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ure, into the Cathedrall Church of <hi>Canterburie,</hi> and there laid up, and delivered to the cuſtodie of ſuch perſons as the Com<g ref="char:EOLhyphen"/>miſſarie Gen. ſhall appoint, for the uſe of the Parliament; and all hor<g ref="char:EOLhyphen"/>ſes, ſaddles, and furniture imployed there in Militarie ſervice, ſhall likewiſe be delivered to ſuch as he ſhall appoint in the Caſtle yard, to morrow by two of the clock in the afternoone, or ſooner, except to the number of eightie of the Countrie Gentlemens horſes, with their ſad<g ref="char:EOLhyphen"/>dles and bridles, to be allowed for the carrying of them to their houſes, and there to continue them to their own proper uſes.</p>
+               <p n="3">3. That all other furniture of warre, within the ſaid Citie, County, and Suburbs, ſhall likewiſe be delivered up to ſuch as the ſaid Com<g ref="char:EOLhyphen"/>miſſary Generall ſhall appoint by to morrow at noone, or ſooner.</p>
+               <p n="4">4. That in conſideration hereof, no ſouldier ſhall offer any violence, or plunder, or to their power ſuffer to be plundred any the perſons In<g ref="char:EOLhyphen"/>habitants in the County of <hi>Kent,</hi> or in the County and City of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> compriſed within theſe Articles, and that all of them ſhall, or may with ſaſety and freedome returne to their ſeverall habitations, and there quietly abide, (they ſubmitting to the authority of Par<g ref="char:EOLhyphen"/>liament) except ſuch as have ſerved the King againſt the Parlia<g ref="char:EOLhyphen"/>ment in the late warre unleſſe they ſhall within ten dayes next enſu<g ref="char:EOLhyphen"/>ing give ſufficient ſecurity to the Lord Generall for their peaceable reſidence in the Kingdome, and not to beare, or raiſe Armes againſt the Parliament, or the forces by them imployed, or otherwiſe doe in one Moneth depart the Kingdom, and not to return without leave firſt had, and obtained from the Parliament, or the Lord Generall,
+<pb n="10" facs="tcp:161873:7"/>and every ſuch perſon upon requeſt ſhall have a Paſſe from the Lord Generall for his tranſportation: and except alſo ſuch other perſons as are not Inhabitants within this County of <hi>Kent,</hi> County and City of <hi>Canterbury,</hi> and yet have borne Anmes in the late Inſur<g ref="char:EOLhyphen"/>rections in this County.</p>
+               <p n="5">5. That for what Fine or further puniſhment ſhall be impoſed upon any of the perſons within this Capitulation for Delinquency in the late Inſurrections, in order to reparation of damages occaſioned thereby, and the further ſecurity and quiet of this County, the Generall, ſo ferre as it is, or ſhall be left to him by the Parliament, will ſet downe ſome moderate and reaſonable tearmes; and for what ſhall not be in his power properly to determine, will earneſtly recommend their conditions to the Parliament, for moderation and gentleneſſe to be uſed: and it is the intentions of this Agreement, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no penalty be impoſed, as aforeſaid, upon any perſon within this Capitulation except ſuch as ſtand excepted in the laſt preceding Article) ſhall extend to corporall puniſhment.</p>
+               <p n="6">6. That all perſons compriſed within this Capitulation, that are to Live the benefit thereof, ſhall ingage themſelves, unleſſe within three layes they declare the contrary to the Generall, or Commiſſary Gene<g ref="char:EOLhyphen"/>rall <hi>Ireton,</hi> ſhall be underſtood hereby to be ingaged, not to raiſe or beare Armes any more againſt the Parliament, or their forces by them imployed, or to act any thing wilfully to the prejudice of their affaires, or to the diſturbance of the Publique Peace; and when they, or any of them ſhall be required by the Generall, or ſuch other <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he ſhall appoint, ſuch perſons ſo required ſhall ſubſcribe to the ſame.</p>
+               <closer>
+                  <dateline>Dated at <hi>Feverſham</hi> 
+                     <date>this 8<hi rend="sup">th</hi>. of June. 1648.</date>
+                  </dateline>
+                  <signed>Signed by us the Commiſſioners on the behalf of his Excellencie, the Lord Generall <hi>Fairfax.</hi>
+                     <list>
+                        <item>Jo. Barkſtead.</item>
+                        <item>Q. Gravener.</item>
+                        <item>Hen. Whaley.</item>
+                     </list>
+                  </signed>
+                  <signed>Signed on the behalf of the Gentlemen, and others, now in Arms in <hi>Canterburie.</hi>
+                     <list>
+                        <item>Robert Wilkinſon.</item>
+                        <item>James Kent.</item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <hi>Rocheſter.</hi> 
+                     <date>9<hi rend="sup">th</hi>. of <hi>June.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>I do approve of theſe Articles, and for my part do ratifie and confirme the ſame.</p>
+                  <closer>
+                     <signed>Thomas Fairfax.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="group_of_letters">
+               <pb n="11" facs="tcp:161873:7"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Lord,</salute>
+                     </opener>
+                     <p>WEE have ſent the incloſed to your peruſall, and ſhall need to ſay no more, then what the incloſed ſpeaks, we reſt,</p>
+                     <closer>
+                        <signed>Your Servants,
+<list>
+                              <item>Norwich.</item>
+                              <item>Arthur Capell.</item>
+                              <item>Charles Lucas.</item>
+                           </list>
+                        </signed>
+                        <date>
+                           <hi>June</hi> 19. 1648.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Iune</hi> 19. 1648.</head>
+                     <p>THE Committee of Parliament now under reſtraint at <hi>Colcheſter,</hi> upon their humble requeſt for it to the Lord <hi>Norwich,</hi> Lord <hi>Capell,</hi> and Sir <hi>Charles Lucas,</hi> have obtained leave of them, that they, the ſaid Committee, may make it their humble Propoſall to the Lord <hi>Fairfax,</hi> that there may be a Treaty between both Armies for a Peace.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>W. Rowe.</item>
+                              <item>W. Maſham.</item>
+                              <item>Io: Edm.</item>
+                              <item>Samuell Sheffeld.</item>
+                              <item>I. Langley.</item>
+                              <item>T. Midleton.</item>
+                              <item>Tho. Ayloff.</item>
+                              <item>Robert Smith.</item>
+                              <item>I. Barnardiſton.</item>
+                              <item>Robert Crane.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>IT is the generall Peace of the Kingdome we contend for, and therefore we are content, that the Commitee ſhall ſend their above-written Propoſall to the Lord <hi>Fairfax,</hi> according unto their Requeſt made unto us,</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Norwich.</item>
+                              <item>Arth: Capel.</item>
+                              <item>Charles Lucas.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                     <trailer>For my Lord <hi>Fairfax.</hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>THE Paper ſent to me, incloſed in the Letter from your Lordſhips, and Sir <hi>Charles Lucas,</hi> of the <hi>19.</hi> Inſtant, ſeemes in the firſt part of it ſo drawn, as that I could not well underſtand it, what kinde of Treaty, or for what Peace it meant: But the latter part, underwritten by your Lordſhips, and Sir <hi>Charles Lucas,</hi> ſeemes to explain your own meaning, ſo, as if you meant a Treaty betwixt the Armies for the generall Peace of the Kingdom, and not otherwiſe for your ſelves, or your Garriſon: And to the Con<g ref="char:EOLhyphen"/>tents
+<pb n="12" facs="tcp:161873:8"/>of it in that ſence, I can only ſay, That ſuch a Treaty, and for ſuch a Peace, is not the proper work of my ſelf, or the Army, but theirs that have imployed us: But if the Engliſh be, to make way for Conditions to your Garriſon, I ſhall, without the trouble of a Treaty, let you know what your ſelves, and thoſe under you may expect from me, (which for the reſtoring of quiet to this County, and the Kingdom, without more blood<g ref="char:EOLhyphen"/>ſhed) and for the ſaving of ſo eminent a Town from the chance of War, I ſhall offer, <hi>viz.</hi> That if your ſelves, and the reſt with you in <hi>Colcheſter,</hi> ſhall, within <hi>24.</hi> houres after notice hereof, lay down Armes, the Common ſouldiers, and men of that rank, ſhall have liberty to depart to their ſeverall homes, and there quietly to remain, ſubmitting unto the Authority of Parliament: (And this I ſhall make good however, to ſo many of that ſort reſpectively, as ſhall accept thereof, and do accordingly.) Your ſelves, and the Officers and Gentlemen engaged with you in the Town, ſhall have liberty, and Paſſes to go beyond Sea, with Equipage befitting their qualities, (engaging themſelves not to re<g ref="char:EOLhyphen"/>turn into this Kingdom without leave from the Parliament.) And all of both ſorts, with the Inhabitants of the Town, ſhall be free from plunder or violence of the ſouldiers, their Arms, Ammunition, and furniture of War within the Town, and alſo their borſes imployed in Militarie ſervice, (except ſuch horſes and ſwords, as ſhall be fit to be al<g ref="char:EOLhyphen"/>lowed to Captaines, or ſuperior Officers, and Gentlemen of quality, for their removall) being firſt delivered up without imbezlement, in an orderly manner, as ſhall be further ſet down, and the forces under my Command, or ſuch as I ſhall appoint, being admitted a peaceable entrance into the Town. I deſire the Gentlemen of the Committee of Parlia<g ref="char:EOLhyphen"/>ment now in your hands, (who by their ſubſcriptions to part of the Paper, and by your ſending of it, as from them, or at their requeſt, are concerned to know what my Anſwer is,) may be acquainted herewith, and indeed, if it be concealed from any that are concern<g ref="char:EOLhyphen"/>ed in it: The blame thereof from God and man is like to fall on their heads, who ſhall be the Authors of ſuch Concealment.</p>
+               <closer>
+                  <signed>
+                     <hi>Your Servant,</hi> Thomas Fairfax.</signed>
+               </closer>
+               <trailer>To the Earl of <hi>Norwich,</hi> and Lord <hi>Capell.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Have herewith ſent an Anſwer to the Paper ſent me yeſterday from Lord <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> Lord <hi>Capell,</hi> and Sir <hi>Charles Lucas,</hi> as from your ſelves, or at your requeſt; which I preſume, will be imparted to you by them, and I have likewiſe ſent a Copy thereof by this bearer, to be delivered to you, if thoſe Lords ſhall ſo admit.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>June</hi> 20. 1648.</date>
+                  </dateline>
+               </closer>
+               <trailer>To Sir <hi>William Rowe,</hi> Sir <hi>William Maſham,</hi> and the reſt of the Committee of Parliament, now under reſtraint at <hi>Colcheſter.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>WE have received yours of the 20. which takes notice of the Paper of the 19. ſubſcribed by the Committee, and of our permiſſion to have it delivered to you, You have very juſtly apprehended our intentions to be the Publique Peace of the Kingdome, and we againe owne that ſence, and no other, as befitting the duty of Engliſh Men: And we believe, if both Armies were accorded in ſuch an indeavour, it were the moſt pious, eaſie, and honourable
+<pb n="13" facs="tcp:161873:8"/>action, wherein they could be ingaged; but why you have taken occaſion by that act of ours, to offer Conditions in particular to us, we underſtand not, nor can it be ſuppoſed, without ſtrayning, and offering violence to our manner of proceed<g ref="char:EOLhyphen"/>ing. I hoſe Conditions you proffer to the Officers and ſouldiers on our part, we doe hereby make offer of to the Officers and ſouldiers on your part. We ſhall in this occaſion deale frankly and plainly. We doe not without evident reaſon con<g ref="char:EOLhyphen"/>ceive our ſelves to be in a Condition, able to entertaine all the force you can make and thereby to give courage and opportunity to all true hearted Engliſh<g ref="char:EOLhyphen"/>men, to recover their ancient and knowne Lawes; or if you ſhall adventure to attaque us, we doubt not but by the mercy and aſſiſtance of Almighty God to give you ſuch a repulſe, as ſhall give I eſtimony of our force and courage; &amp; at how high a rate we value the Generall peace of the Kingdome. You doe with more then uſuall earneſtneſſe deſire, that your Anſwer ſhould be communicated to the Com<g ref="char:EOLhyphen"/>mittee, and whom elſe it may concerne; we apprehend you cheifly intend the In<g ref="char:EOLhyphen"/>habitants of <hi>Colcheſter;</hi> we were very unworthy perſons if any thould exceed us in our Care for this good Towne, and we doubt not but God will recompence the kindneſſe we have received from them, and that he hath a reward in ſtore for them ſutable to the loyalty and fidelity they have hitherto in this occaſion mani<g ref="char:EOLhyphen"/>feſted toward the King, and knowne Lawes of the Kingdome: and becauſe you apprehend it ſo important and neceſſary to divulge the proceedings in this affaire, we will therefore put it into your power: And therefore we deſire your Lordſhip, to cauſe the Paper ſigned by the Committee of the 19. and our anſwer ſubſigned, the anſwer of your Lordſhip to us of the 20. and this our reply of the 21 to be all printed, and as many of the prints as you ſhall ſend to us, we will diſperſe in <hi>Col<g ref="char:EOLhyphen"/>cheſter,</hi> and thoſe parts of the Country under our power, and to each perſon of the Committee one,</p>
+               <closer>
+                  <dateline>
+                     <hi>Colcheſter.</hi> 
+                     <date>21 <hi>Iune.</hi> 1648.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Norwich.</item>
+                        <item>Arthur Capell.</item>
+                        <item>Charles Lucas.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>My Lord we doe alſo hereby returne you many thanks for your hono<g ref="char:EOLhyphen"/>rable Civilities in the buſineſſe of <hi>Sir William Leyton.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <p>WHereas in anſwer to a Letter ſent out from <hi>Colcheſter,</hi> concerning a Treatie, I have offered libertie to all private Souldiers and perſons of that ranke, laying downe Armes, to depart to their ſeverall homes, and to be free from the plunder or violence of the Souldiers. Together with other Conditions to Perſons of other Qualities: I doe therefore require and Command all Officers, Souldiers, and others, whom it may concerne, That in Caſe be<g ref="char:EOLhyphen"/>fore acceptance of, or Agreement upon the Conditions tendred to all of the Ene<g ref="char:EOLhyphen"/>mies partie, for the ſurrender of the Towne, any private Souldiers or Perſons of that ranke, ſhall come away from the Enemy, with their Armes or without, and ſhall peaceably come into the guards, rendring ſuch Armes as they bring with them; That in ſuch caſe no plunder or violence being committed upon any ſuch perſons, but that they be quietlie brought to the Head Quarters, there to receive
+<pb facs="tcp:161873:9"/>Paſſes for their repair to their Homes. </p>
+               <closer>
+                  <dateline>Given under my hand and ſeale at the Lea<g ref="char:EOLhyphen"/>guer before <hi>Colcheſter</hi> 
+                     <date>the 21. day of June. 1648.</date>
+                  </dateline> 
+                  <signed>Thomas Fairfax.</signed>
+               </closer>
+               <trailer>To the Marſhall Gen. or his Deputy, to be publiſhed by beate of Drlim, and ſound of Trumpet, in each Regiment, and Troop.</trailer>
+               <argument>
+                  <p>This was Proclaimed in the head of every Troop and Regiment of he Army of his Excellenen<g ref="char:EOLhyphen"/>cy, the Lord <hi>Fairfax,</hi> before <hi>Colcheſter.</hi> June 21. 1648.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>I Have read your Lettter of the ſecond Inſtant. As to the unheard of motion of free trade to be admitted to a beſieged Town, (the imharring whereof, they have by their admiſſion of your forces drawn upon themſelves) I have yet ſent here incloſed an Anſwer to the Mayor, and the reſt, which I expect to be communicated to them. For the reſt of your Let<g ref="char:EOLhyphen"/>ter, being of that nature as it is, I ſhall for bear either to retort, or anſwer,</p>
+               <closer>
+                  <signed>Your Servant, <hi>Tho. Fairfax</hi>
+                  </signed>
+                  <date>June 23. 1648.</date>
+               </closer>
+               <trailer>For the E. of <hi>Norwich,</hi> L. <hi>Capell,</hi> Sir <hi>Charles Lucas</hi> theſſe,</trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>WE who are now in <hi>Colcheſter</hi> in a poſture of Arms, but ſtill in Order to the ge<g ref="char:EOLhyphen"/>nerall Peace of the Kingdom, underſtand that you have aſſembled your ſelves alſo in a warlike poſture, upon the Confines of your County of <hi>Suffolk,</hi> whether to joyn with us in the ſame juſt undertakings, w<hi rend="sup">ch</hi> become true lovers of their country, or to adhere to thoſe who oppoſe our common Peace, or to ſtand in a cold New<g ref="char:EOLhyphen"/>trality to both, we yet know not. We well hope, any diſtance you at preſent think fit to keep from us, proceeds not from any difference of opinion, or deſigne, but want of a mutual underſtanding of one another: Our intents on our part, are ſo much leveled at the reſtoring of the known Laws of the Land, the proper intereſt both of King and ſubjects, and a well-grounded Peace, without any by intereſt whatſover, as we doubt not, if you will pleaſe to ſend ſome few perſons among you, in the name of the reſt, to communicate to us your thoughts and deſires, and freely un<g ref="char:EOLhyphen"/>derſtand ours, we ſhall be found ſo agreeing with you in our ends, as you will after that, with more confidence concur, and joyn with us in our proceedings, which uni<g ref="char:EOLhyphen"/>on will not only ſtrengthen one another, but give both acceſſe and incouragement to others more remoter to ingage in the ſame undertaking. You may be confident, ſuch perſons as you ſhall depute for this purpoſe, ſhall have a ſafe paſſage to us, and return to you, and ſuch a Cordiall Reception here, as ſhall evidence us to be,</p>
+               <closer>
+                  <signed>Your real Friends and Servants, <hi>Norwich, Arth: Capell, Char: Lucas.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Colcheſter,</hi> 
+                     <date>
+                        <hi>Iune</hi> 23.</date>
+                  </dateline>
+               </closer>
+               <trailer>To the Gent or chief Officers at <hi>Cattaway bridge</hi> and <hi>Stretford.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>WE are willing ſo far to anſwer your deſires, as to let you know our forces are come hither to preſerve the County of <hi>Suffolk</hi> from the injuryous oppreſſions, and illegall proceedings of the L <hi>Goring,</hi> Sir <hi>Charles Lucas,</hi> and their party, and are further reſolved, by Gods aſſiſtance, to helpe o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neighbours in <hi>Eſſex,</hi> in re<g ref="char:EOLhyphen"/>moving ſuch juſt cauſes of their complaint, and if you were as ſenſible of them as we, and not ſeduced by ſome old and know he enemies of the Kingdome, into a ſecond unnaturall difference (if the goodneſſe of God prevent it not) you would cleerly ſee we are freinds, and no enemies to you, further then you are enemies to the State, and to the peace of the Kingdome and of theſe Aſſociated Counties; and whereas we underſtand you have drawne nigh to us, and ſeiſed upon Sir <hi>Har<g ref="char:EOLhyphen"/>bottle Grimſtons</hi> houſe, and plundred thoſe parts which you pretend to ſecure, we deſire you would prevent thoſe cauſes of Jealouſy, by a preſent removing of the for<g ref="char:EOLhyphen"/>ces, till which be done, we ſhall take you for enemies, and cannot, as we otherwiſe gladly would ſubſcribe our ſelves.</p>
+               <closer>
+                  <dateline>
+                     <hi>Cattaway bridg</hi> 
+                     <date>June 23 1648.</date>
+                  </dateline>
+                  <signed>Your freinds:
+<list>
+                        <item>Ioh. Brandlinge.</item>
+                        <item>Peter Fiſher.</item>
+                        <item>Rich. Gooding.</item>
+                        <item>Jacob Caley.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>To the Commander of the party at <hi>Bradfeild-Hall.</hi>
+               </trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
